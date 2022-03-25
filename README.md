@@ -11,11 +11,43 @@ terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browse
 Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf" )
                                        
 Jawaban:
-1. Disini saya melakukan eksperiment dengan menambah prperti dan nilai yang berbeda untuk file code dan hasil konten di web saya tampilkan sebagai betikut:
+1. Code Html eksperiment, Teks berjalan "Hello Word"
+                                      
+![Screenshot (46)](https://user-images.githubusercontent.com/101849655/160136779-46e8aa44-6297-4d05-9db4-9df91258c1e3.png)
                                        
-   a. Code Html eksperiment
+     Hasil
+                                       
+![Screenshot (45)](https://user-images.githubusercontent.com/101849655/160136763-83db0632-ef0a-4cbe-8e9e-87f972805ca3.png)
+
  
- 2. Perbedaan dari pendeklarasian h1 {...} dan #intro h1 {...} adalah pada selector yaitu jika pendeklarasian hanya dengan tag h1 itu artinya tidak disertai dengan selector.Dalam hal ini tampilan browser hanya akan menampilkan heading 1 dengan apa adanya sesuai pendeklarasian.Adapun jika pendeklarasian disertai dengan adanya #intro h1 itu berarti disertai dengan selector yaitu ID selector yang berfungsi untuk memberikan style yang berbeda pada sebuah elemen HTML.
+2. Perbedaan dari pendeklarasian h1 {...} dan #intro h1 {...} adalah pada selector yaitu jika pendeklarasian hanya dengan tag h1 itu artinya tidak disertai dengan selector.Dalam hal ini tampilan browser hanya akan menampilkan heading 1 dengan apa adanya sesuai pendeklarasian.Adapun jika pendeklarasian disertai dengan adanya #intro h1 itu berarti disertai dengan selector yaitu ID selector yang berfungsi untuk memberikan style yang berbeda pada sebuah elemen HTML.
+                                       
+3. a. Berikut gambar code pendeklarasian Css Internal saya mengambil contok warna teks paragraf dengan format warna merah #ec0101
+                                       
+![Screenshot (47)](https://user-images.githubusercontent.com/101849655/160143432-157be3e0-396d-49ed-9579-54fc23b3f4d4.png)
+                                       
+   b. Berikut gambar code pendeklarasian Css Eksternal saya mengambil contoh warna teks paragraf dengan format warna putih/#fffff
+                                       
+![Screenshot (49)](https://user-images.githubusercontent.com/101849655/160144453-468fd368-73a0-4a6f-844d-edd2cb5c4563.png)
+                                       
+   c. Berikut ini adalah hasil yang ditampilkan pada browser, dimana tampilanya sesuai dengan pendeklarasian Css internal dengan format warna teks 
+      berwarna merah #ec0101
+                                       
+![Screenshot (50)](https://user-images.githubusercontent.com/101849655/160144865-7424d2a8-8f79-4c8a-8816-376223f65a4d.png)
+                                       
+4. 
+  a. disini saya mengambil contoh dengan membuat paragraf baru seperti dibawah ini dengan pendeklarasian ID dan Class selector. untuk lebih jelasnya dapat dilihat pada gambar dibawah ini.
+                                       
+![Screenshot (51)](https://user-images.githubusercontent.com/101849655/160147789-c49a7a3d-345c-4d8b-8c30-a17496898b60.png)
+                                       
+  b. Kemudian pada Css eksternal saya memberikan perintah perataan dan format warna teks yang berbeda dimana pada ID class diberi nilai align center dan warna merah #ec0101 sedangkan Class selector diberi nilai align right dan warna putih. Untuk lebih jelasnya bisa dilihat pada gambar dibawah ini.
+
+
+                                       
+
+    
+                                       
+                                       
                                       
 B. Laporan Praktikum
                                        
