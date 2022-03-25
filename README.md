@@ -35,20 +35,20 @@ Jawaban:
                                        
 ![Screenshot (50)](https://user-images.githubusercontent.com/101849655/160144865-7424d2a8-8f79-4c8a-8816-376223f65a4d.png)
                                        
-4. 
-  a. disini saya mengambil contoh dengan membuat paragraf baru seperti dibawah ini dengan pendeklarasian ID dan Class selector. untuk lebih jelasnya dapat dilihat pada gambar dibawah ini.
+4. a. disini saya mengambil contoh dengan membuat paragraf baru seperti dibawah ini dengan pendeklarasian ID dan Class selector. untuk lebih jelasnya dapat dilihat pada gambar dibawah ini.
                                        
 ![Screenshot (51)](https://user-images.githubusercontent.com/101849655/160147789-c49a7a3d-345c-4d8b-8c30-a17496898b60.png)
                                        
   b. Kemudian pada Css eksternal saya memberikan perintah perataan dan format warna teks yang berbeda dimana pada ID class diberi nilai align center dan warna merah #ec0101 sedangkan Class selector diberi nilai align right dan warna putih. Untuk lebih jelasnya bisa dilihat pada gambar dibawah ini.
-
-
                                        
-
-    
+![Screenshot (52)](https://user-images.githubusercontent.com/101849655/160156105-d4d26fbf-883c-41a7-b580-b91ad069368d.png)
                                        
+  c. Selanjutnya simpan perubahan dan muat ulang browser. Pada tampilan paragraf yang ditampilkan pada browser menunjukan posisi kerataan kanan dan warna teks berwarna putih, itu artinya deklarasi class selectorlah yang ditampilkan terlebih dahulu pada browser. Untuk lebih jelasnya bisa dilihat pada gambar dibawah ini.
                                        
-                                      
+![Screenshot (53)](https://user-images.githubusercontent.com/101849655/160156377-806f500d-9c0a-4ad7-872a-914c1fc66997.png)                                     
+                                       
+         
+                                       
 B. Laporan Praktikum
                                        
      1. Membuat dokumen Html dengan nama Lab2Web. 
