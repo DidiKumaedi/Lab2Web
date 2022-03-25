@@ -14,6 +14,8 @@ Jawaban:
 1. Disini saya melakukan eksperiment dengan menambah prperti dan nilai yang berbeda untuk file code dan hasil konten di web saya tampilkan sebagai betikut:
                                        
    a. Code Html eksperiment
+ 
+ 2. Perbedaan dari pendeklarasian h1 {...} dan #intro h1 {...} adalah pada selector yaitu jika pendeklarasian hanya dengan tag h1 itu artinya tidak disertai dengan selector.Dalam hal ini tampilan browser hanya akan menampilkan heading 1 dengan apa adanya sesuai pendeklarasian.Adapun jika pendeklarasian disertai dengan adanya #intro h1 itu berarti disertai dengan selector yaitu ID selector yang berfungsi untuk memberikan style yang berbeda pada sebuah elemen HTML.
                                       
 B. Laporan Praktikum
                                        
