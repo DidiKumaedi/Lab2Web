@@ -17,7 +17,8 @@ Jawaban:
                                        
      Hasil
                                        
-![Screenshot (45)](https://user-images.githubusercontent.com/101849655/160136763-83db0632-ef0a-4cbe-8e9e-87f972805ca3.png)
+![Screenshot (45)](https://user-images.githubusercontent.com/101849655/161192957-91049486-dfe3-4942-b823-fc6661d268ea.png)
+
 
  
 2. Perbedaan dari pendeklarasian h1 {...} dan #intro h1 {...} adalah pada selector yaitu jika pendeklarasian hanya dengan tag h1 itu artinya tidak disertai dengan selector.Dalam hal ini tampilan browser hanya akan menampilkan heading 1 dengan apa adanya sesuai pendeklarasian.Adapun jika pendeklarasian disertai dengan adanya #intro h1 itu berarti disertai dengan selector yaitu ID selector yang berfungsi untuk memberikan style yang berbeda pada sebuah elemen HTML.
@@ -33,7 +34,8 @@ Jawaban:
    c. Berikut ini adalah hasil yang ditampilkan pada browser, dimana tampilanya sesuai dengan pendeklarasian Css internal dengan format warna teks 
       berwarna merah #ec0101
                                        
-![Screenshot (50)](https://user-images.githubusercontent.com/101849655/160144865-7424d2a8-8f79-4c8a-8816-376223f65a4d.png)
+![Screenshot (50)](https://user-images.githubusercontent.com/101849655/161193124-8ab8006c-2c37-433a-9ad3-338a4dfb10f0.png)
+
                                        
 4. a. disini saya mengambil contoh dengan membuat paragraf baru seperti dibawah ini dengan pendeklarasian ID dan Class selector. untuk lebih jelasnya dapat dilihat pada gambar dibawah ini.
                                        
@@ -45,7 +47,8 @@ Jawaban:
                                        
   c. Selanjutnya simpan perubahan dan muat ulang browser. Pada tampilan paragraf yang ditampilkan pada browser menunjukan posisi kerataan kanan dan warna teks berwarna putih, itu artinya deklarasi class selectorlah yang ditampilkan terlebih dahulu pada browser. Untuk lebih jelasnya bisa dilihat pada gambar dibawah ini.
                                        
-![Screenshot (53)](https://user-images.githubusercontent.com/101849655/160156377-806f500d-9c0a-4ad7-872a-914c1fc66997.png)                                     
+![Screenshot (53)](https://user-images.githubusercontent.com/101849655/161193233-755354d5-0ea3-428d-ac60-4ab091e89fc3.png)
+                                     
                                        
          
                                        
